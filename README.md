@@ -13,8 +13,8 @@
 - 🌱 I'm currently learning **YOUR SKILLS (e.g. React, Python, DSA)**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **Web Development, Python, JavaScript**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **Add something fun about yourself**
+- 📫 How to reach me: **deepakkerav82340@gmail.com**
+- ⚡ Fun fact: **keep learning keep growing**
 
 ---
 
